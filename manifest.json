@@ -8,9 +8,13 @@
   "description": "نظام إدارة صيانة الموبيلات والكاشير",
   "icons": [
     {
-      "src": "https://www.pwabuilder.com/assets/images/icon-512.png",
+      "src": "https://github.githubassets.com/favicons/favicon.png",
       "sizes": "512x512",
       "type": "image/png"
+    }
+  ]
+}
+
     }
   ]
 }
